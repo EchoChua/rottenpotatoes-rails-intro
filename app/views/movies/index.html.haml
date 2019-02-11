@@ -11,7 +11,11 @@
 %table#movies
   %thead
     %tr
+<<<<<<< HEAD
       %th{class: @table_header}= link_to "Movies Title", movies_path(:sort_by => 'title'), :id => "table_header"
+=======
+      %th= link_to('Movie Title', '/')
+>>>>>>> d5a0559d5f8b6a4641f418f353888dfbbf08aeac
       %th Rating
       %th{class: @release_date_header}= link_to "Release Date", movies_path(:sort_by => 'release_date'), :id => "release_date_header"
       %th More Info
