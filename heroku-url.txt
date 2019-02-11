@@ -1,3 +1,9 @@
-#the address of the rottenpotatoes app:
+
+https://github.com/EchoChua/rottenpotatoes-rails-intro
+
+Name : Xingyi Cai
+UIN : 727006580
+
+the URI of my Heroku app:
 
 http://enigmatic-harbor-80121.herokuapp.com
